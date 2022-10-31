@@ -15,4 +15,21 @@
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
-`</field><data>{"commentRefs":[],"fieldData":{"img":"Wd3yrp4BC7q/FUMnftP{"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="k?Y)aRdKS=Q#.PUy*IF."><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block></xml>
+`</field><data>{"commentRefs":[],"fieldData":{"img":"Wd3yrp4BC7q/FUMnftP{"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="k?Y)aRdKS=Q#.PUy*IF."><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="device_pause" id="||I3jqvrtP5Xjxq=WFW["><value name="pause"><shadow type="timePicker" id="F;6CY6Q_n/sc`Iz!=%LJ"><field name="ms">100</field></shadow></value></block></next></block></statement></block><block type="spritescreatenoset" id="3gP.JCv0aCVJmWo@4KyD" disabled="true" x="310" y="290"><value name="img"><shadow type="screen_image_picker" id="Tl)22oHfr4Kz_.+;JUX=" disabled="true"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":"Tl)22oHfr4Kz_.+;JUX="}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="SUv@L?q||)ktq!XdXF2-" disabled="true"><field name="MEMBER">Player</field></shadow></value></block></xml>
