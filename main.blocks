@@ -15,4 +15,4 @@
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
-`</field><data>{"commentRefs":[],"fieldData":{"img":"MAERUwMRs10|c41o,lF!"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="47C{.a@Wu.t!6.Gpb9wL"><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block><block type="controls_repeat_ext" id="z,;8T/TzK|gXEvtaR{W1" disabled="true" x="190" y="250"><value name="TIMES"><shadow type="math_whole_number" id="37#edZ^RQ@Z58Lk=[wgY" disabled="true"><field name="NUM">4</field></shadow></value></block></xml>
+`</field><data>{"commentRefs":[],"fieldData":{"img":"MAERUwMRs10|c41o,lF!"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="47C{.a@Wu.t!6.Gpb9wL"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="controls_repeat_ext" id="z,;8T/TzK|gXEvtaR{W1"><value name="TIMES"><shadow type="math_whole_number" id="37#edZ^RQ@Z58Lk=[wgY"><field name="NUM">4</field></shadow><block type="hudScore" id="~z5,LpbC:Iv2G`Q+tQ`J"></block></value></block></next></block></statement></block></xml>

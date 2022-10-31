@@ -18,4 +18,7 @@ forever(function () {
         . . . . . . . . . . . . . . . . 
         . . . . . . . . . . . . . . . . 
         `, SpriteKind.Player)
+    for (let index = 0; index < info.score(); index++) {
+    	
+    }
 })
